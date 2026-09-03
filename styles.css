@@ -1,7 +1,9 @@
 @font-face {
-    font-family: Helvetica Bold;
-    src: url(Helvetica-Bold.ttf);
+    font-family: HVBold;
+    src: url(fonts/Helvetica-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
 }
 body {
-    font-family: 'Helvetica Bold';
+    font-family: 'HVBold', sans-serif;
 }

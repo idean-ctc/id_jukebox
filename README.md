@@ -1,3 +1,3 @@
-id_unnamed
+id_jukebox
 
-This will be the readme. When I figure 
+Hi there. This will be a jukebox app, because I was inspired by my OAISD class, and was interested in trying it out myself as a personal project. This repo is licensed under the MIT license, and is not for public use without proper credit authored to Isaac Dean, or @idean-ctc.
